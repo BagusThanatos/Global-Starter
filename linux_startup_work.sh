@@ -1,3 +1,3 @@
 sudo apt update
-sudo apt clang-7 install mesa-common-dev
+sudo apt install clang-7 mesa-common-dev
 alias clang=clang-7
